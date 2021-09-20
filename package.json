@@ -1,0 +1,27 @@
+{
+  "name": "apod",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@lyket/react": "^1.4.7",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "moment": "^2.29.1",
+    "moment-random": "^1.0.4",
+    "prop-types": "^15.7.2",
+    "react": "^16.5.2",
+    "react-datepicker": "^1.8.0",
+    "react-dom": "^16.5.2",
+    "react-icons": "^4.2.0",
+    "react-input-calendar": "^0.5.3",
+    "react-scripts": "1.1.5",
+    "semantic-ui-css": "^2.4.0",
+    "semantic-ui-react": "^0.82.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
